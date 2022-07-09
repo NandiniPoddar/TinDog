@@ -1,6 +1,9 @@
 # TinDog
 A simple Tinder-like website for Dogs using HTML, CSS and Bootstrap
 
+Click on https://nandinipoddar.github.io/TinDog/ to check it out. 
+Hope you like it! 
+
 Some sample screenshots are attached below:
 ![Screenshot (64)](https://user-images.githubusercontent.com/96279279/178092406-ab5b603a-fb1d-4b99-a420-09e555d6db1d.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/96279279/178092409-94ec2b8e-1f4c-4e6f-8aae-c81ed9343f28.png)
